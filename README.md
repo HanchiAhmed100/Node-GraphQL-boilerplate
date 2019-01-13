@@ -1,5 +1,5 @@
 # Node-GraphQL
-Getting strated with graphql with nodeJS
+Getting strated with graphql and NodeJS
 Bullding a simple api with GraphQL and express JS 
 
 Script : 
